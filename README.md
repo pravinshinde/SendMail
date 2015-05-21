@@ -1,4 +1,4 @@
-# SendMail
+# Send Email without Intent in Android
 
 
 Send Email without Intent in Android.
